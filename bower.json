@@ -1,0 +1,13 @@
+{
+  "name": "wire-invoke",
+  "version": "0.1.0",
+  "main": "lib/invoke.js",
+  "dependencies": {
+    "requirejs": "~2.1.5",
+    "underscore-amd": "~1.4.4"
+  },
+  "devDependencies": {
+    "wire": "~0.10.2"
+  },
+  "directory": "components"
+}
