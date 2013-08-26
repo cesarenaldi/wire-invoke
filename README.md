@@ -20,7 +20,7 @@ define({
 	result: {
 		invoke: {
 			$ref: 'myFun',
-			args; ['foo']
+			args: ['foo']
 		}
 	}
 })
