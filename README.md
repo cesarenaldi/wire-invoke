@@ -14,6 +14,7 @@ define({
 	myFun: {
 		literal: function (/* args */) {
 			console.log(arguments)
+			return 'done'
 		}
 	},
 
