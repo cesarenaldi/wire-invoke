@@ -1,6 +1,6 @@
 # wire-invoke [![Build Status](https://secure.travis-ci.org/cesarenaldi/wire-invoke.png?branch=master)](http://travis-ci.org/cesarenaldi/wire-invoke)
 
-This wire.js plugin add a new facet to the default DSL set that is useful to invoke a function inside your wire spec. Compared with the buil-in `create` facet, `invoke` also accepts function passed as reference (i.e. `$ref`).
+This wire.js plugin add a new facet to the default DSL set that is useful to invoke a function inside your wire spec. Compared with the buil-in `create` facet, `invoke` also invoke your function passed as reference with a custom arguments set (see Basic usage).
 
 ## Getting Started
 Install the module with: `npm install git://github.com/cesarenaldi/wire-invoke.git`
