@@ -7,7 +7,7 @@ Install the module with: `npm install git://github.com/cesarenaldi/wire-invoke.g
 
 ## Usage
 
-### Package.json of the shared task
+### Basic usage
 
 ```javascript
 define({
@@ -23,7 +23,6 @@ define({
 			args; ['foo']
 		}
 	}
-}
 })
 ```
 
